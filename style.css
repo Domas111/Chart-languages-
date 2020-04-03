@@ -1,0 +1,35 @@
+body {
+  background: #0c0c0e;
+  height: 97vh;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Arial';
+}
+
+canvas {
+  background: #161619;
+}
+
+.card{
+  width: 350px;
+  // background: black;
+  background: #161619;
+  // display: flex; 
+  // justify-content: center; 
+  // align-items: center;
+  
+}
+
+.container {
+  margin: auto;
+  width: 330px;
+  min-height: 500px;
+}
+
+header {
+  font-family: 'Arial';
+  font-size: 1.8rem;
+  padding: 10px 0;
+}
